@@ -1,0 +1,29 @@
+# Pastas de Ambiente Virtual
+venv/
+env/
+.env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de sistema (OS)
+.DS_Store
+Thumbs.db
+
+# Dados e Logs (Muito importante!)
+data/
+logs/
+results/
+*.csv
+*.xlsx
+
+# Documentação Gerada
+docs/build/
+*.html
+
+# IDEs e Editores
+.vscode/
+.idea/
